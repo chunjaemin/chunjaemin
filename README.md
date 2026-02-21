@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![Welcome to My Profile](https://www.profile-readme.store/api/wave-banner?title=Welcome+to+My+Profile&subtitle=Frontend+Developer&theme=aurora)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jaemin's+Gitgub&fontSize=90)
 
 ![Stats](./profile/stats.svg) 
 ![Top Languages](./profile/top-langs.svg)
