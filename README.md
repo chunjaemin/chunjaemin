@@ -2,7 +2,7 @@
 
 # About Me
 
-- 단순한 구현을 넘어 팀 내 서비스를 깊이 이해하고, 적극적인 협업으로 비지니스 가치를 창출을 할 수 있는 개발자가 목표입니다. 
+- 단순한 구현을 넘어 팀 내 서비스를 깊이 이해하고, 적극적인 협업으로 비지니스 가치를 창출 할 수 있는 개발자가 목표입니다. 
 - 개발에 들어가는 리소스들을 고려하여 합리적인 선택을 하고자 노력합니다.
 - 다양한 분야의 아이디어를 접목하여 문제를 해결하는 것을 좋아합니다.
 
@@ -11,6 +11,12 @@
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
+
+# Skills
+
+- **Frameworks/Libraries**: React, Next.js, React Native, Node.js
+- **Languages**: HTML, CSS, JavaScript, TypeScript, Python, GLSL
+- **Architecture**: FSD (Feature-Sliced Design)
 
 # Algorithms
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=chun4582)](https://solved.ac/chun4582)
