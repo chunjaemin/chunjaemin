@@ -6,20 +6,11 @@
 - 개발에 들어가는 리소스들을 고려하여 합리적인 선택을 하고자 노력합니다.
 - 다양한 분야의 아이디어를 접목하여 문제를 해결하는 것을 좋아합니다.
 
-
-# Git Stats
-
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-
 # Skills
 
 - **Frameworks/Libraries**: React, Next.js, React Native, Node.js
 - **Languages**: HTML, CSS, JavaScript, TypeScript, Python, GLSL
 - **Architecture**: FSD (Feature-Sliced Design)
-
-# Algorithms
-[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=chun4582)](https://solved.ac/chun4582)
 
 # Achievements
 
@@ -36,3 +27,13 @@
 - **2025.11.01** · **2025 UNICON** — 강화학습 기반 AI 땅때먹기 게임 개발
 - **2025.09.25–10.23** · **2025 사이드 임팩트 AI 트랙** — 청년 멘토링 플랫폼 풀스택 개발
 - **2025.09.01–12.31** · **캡스톤디자인** *(팀장)* — AI 기반 식단 추천 서비스 프론트엔드 개발
+
+# Git Stats
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+
+
+# Algorithms
+[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=chun4582)](https://solved.ac/chun4582)
+
