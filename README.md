@@ -7,8 +7,9 @@
 - 다양한 분야의 아이디어를 접목하여 문제를 해결하는 것을 좋아합니다.
 
 # Links
-  - [Notion](https://sweltering-aftermath-e4b.notion.site/2dbc706ff2d9806986dce7c5ad2d6955?pvs=74)
-  - [Velog](https://velog.io/@chunjaemin/posts)
+
+[![Velog](https://img.shields.io/badge/Velog-Insight%20Archive-4B5563?style=for-the-badge&logo=velog&logoColor=white&labelColor=20C997)](https://velog.io/@chunjaemin/posts)
+
 
 # Skills
 
