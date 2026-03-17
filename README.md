@@ -57,16 +57,20 @@
 
 # Projects
 
-- **Buquet-In (2025.11 ~ 12)**: OpenAPI 명세 기반의 병렬 개발 환경을 구축하고 , Netlify Proxy와 비동기 폴링을 통해 AI 부케 합성 기능을 안정화한 팀 프로젝트입니다.
-- **도란도란 (2025.09)**: Whisper(STT)와 LLM, 벡터 임베딩을 이용한 AI 프로필 자동 생성 파이프라인을 구축하여 은퇴자-청년 매칭을 구현한 1인 풀스택 프로젝트입니다.
-- **타다닥 (2025.08)**: UNITHON 해커톤 참가작으로, 해커톤 종료 직전 Node.js 기반 OCR 서버를 독자 구축하고 지도-리스트-캐러셀 간의 유기적인 상태 동기화를 구현했습니다.
-- **Check Point (2025.07 ~ 08)**: 3-Page View Recycling과 더블 버퍼링 기술로 고성능 캘린더 엔진을 구축하여 SW 공모전 학장상을 수상한 급여 정산 플랫폼입니다.
-- **Keep The Land! (2025.05 ~ 06)**: Unity ML-Agents의 PPO 알고리즘과 CNN+LSTM 레이어를 도입하여 최적의 영역 확보 전략을 학습시킨 강화학습 AI 땅따먹기 게임입니다.
-- **IMU Runner (2024.11 ~ 12)**: Godot 엔진과 GLSL을 사용하여 3-Lane 이동 제어 시스템과 커스텀 쉴드 이펙트 쉐이더를 구현한 3D 무한 러닝 FPS 게임입니다.
-- **시네마틱 디자인 포트폴리오 (2024.07 ~ 08)**: Three.js와 GLSL 커스텀 쉐이더를 활용해 아날로그 TV 노이즈 및 글리치 효과를 구현한 WebGL 기반 인터랙티브 웹 프로젝트입니다.
-- **J-Chat (2024.02)**: WebSocket과 WebRTC 기술을 활용해 시그널링 서버를 구축하고 , STUN 서버 도입으로 NAT 환경을 극복한 실시간 N:N 화상 채팅 서비스입니다.
-- **J-Shop (2023.12 ~ 2024.01)**: Next.js, MongoDB, AWS S3를 연동하여 인증부터 배포까지 전 과정을 경험한 커머스 풀스택 학습 프로젝트입니다.
-- **J-Dashboard (2023.08 ~ 10)**: Vue 3의 컴포넌트 시스템과 Three.js 3D 렌더링, Riot API 연동을 통해 프레임워크의 기본기를 익힌 대시보드 프로젝트입니다.
+| 프로젝트명 | 기간 | 핵심 기술 | 설명 |
+| --- | --- | --- | --- |
+| A:SSU | 2026.02~ | ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB) | 숭실대학교 제휴 매칭 서비스 |
+| 냉장고에 뭐 있니? | 2026.02~ | ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB) | AI기반 식재료 관리 및 레시피 추천 서비스 |
+| Buquet-In | 2025.11 ~ 12 | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | 가상 부케 Fitting 및 맞춤 부케 추천 서비스 |
+| 도란도란 | 2025.09 | ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | 은퇴자의 경험과 청년의 성장을 잇는 AI 멘토링 플랫폼 |
+| 타다닥 | 2025.08 | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | 택시 동승 서비스 |
+| Check Point | 2025.07 ~ 08 | ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB) | 알바생과 고용주를 위한 급여 정산 및 업무 소통 통합 플랫폼 |
+| Keep The Land! | 2025.05 ~ 06 | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | AI와 겨뤄볼 수 있는 땅따먹기 게임 |
+| IMU Runner | 2024.11 ~ 12 | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white) ![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat&logo=opengl&logoColor=white) | Godot Engine으로 제작한 3D 무한 러닝 슈팅 게임 |
+| 시네마틱 디자인 포트폴리오 | 2024.07 ~ 08 | ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white) ![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat&logo=opengl&logoColor=white) | WebGL 기반의 시네마틱 포트폴리오 |
+| J-Chat | 2024.02 | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white) | WebSocket·WebRTC 학습용 토이 프로젝트 |
+| J-Shop | 2023.12 ~ 2024.01 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | Next.js·MongoDB·AWS S3 학습용 토이 프로젝트 |
+| J-Dashboard | 2023.08 ~ 10 | ![Vue](https://img.shields.io/badge/Vue%203-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white) | Vue3 및 웹 3D 학습용 토이 프로젝트 |
 
 
 # Git Stats
